@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const morgan = require("morgan");
 
-const quotes = require("./quotes.json");
+const quotes = require("./src/quotes.json");
 
 // Add this to access html files
 app.use(express.static(__dirname + "/public"));
