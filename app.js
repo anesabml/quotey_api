@@ -25,3 +25,18 @@ app.get("/random", (request, response) => {
   const random = Math.floor(Math.random() * 100);
   response.json(quotes[random]);
 });
+
+app.get("/test", (request, response) => {
+  const random = Math.floor(Math.random() * 100);
+  const newQuotes = Array();
+  for (let index = 0; index < quotes.length; index++) {
+    const newQuote = quotes[index];
+    newQuote.id = index;
+    newQuote.quote = quotes[index].quote;
+    newQuote.author = quotes[index].author;
+    newQuote.length = quotes[index].quote.length;
+
+    newQuotes.push(newQuote);
+  }
+  response.json(newQuotes);
+});

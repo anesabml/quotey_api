@@ -1,393 +1,602 @@
 [
   {
-    "content": "We are what we repeatedly do. Excellence, therefore, is not an act but a habit.",
-    "author": "Aristotle"
+    "quote": "We are what we repeatedly do. Excellence, therefore, is not an act but a habit.",
+    "author": "Aristotle",
+    "length": 79,
+    "id": 0
   },
   {
-    "content": "The best way out is always through.",
-    "author": "Robert Frost"
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "length": 35,
+    "id": 1
   },
   {
-    "content": "Do not wait to strike till the iron is hot; but make it hot by striking.",
-    "author": "William B. Sprague"
+    "quote": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+    "author": "William B. Sprague",
+    "length": 72,
+    "id": 2
   },
   {
-    "content": "Great spirits have always encountered violent opposition from mediocre minds.",
-    "author": "Albert Einstein"
+    "quote": "Great spirits have always encountered violent opposition from mediocre minds.",
+    "author": "Albert Einstein",
+    "length": 77,
+    "id": 3
   },
   {
-    "content": "Whether you think you can or think you can’t, you’re right.",
-    "author": "Henry Ford"
+    "quote": "Whether you think you can or think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "length": 59,
+    "id": 4
   },
   {
-    "content": "I know for sure that what we dwell on is who we become.",
-    "author": "Oprah Winfrey"
+    "quote": "I know for sure that what we dwell on is who we become.",
+    "author": "Oprah Winfrey",
+    "length": 55,
+    "id": 5
   },
   {
-    "content": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
-    "author": "Michael Jordan"
+    "quote": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "length": 224,
+    "id": 6
   },
   {
-    "content": "You must be the change you want to see in the world.",
-    "author": "Mahatma Gandhi"
+    "quote": "You must be the change you want to see in the world.",
+    "author": "Mahatma Gandhi",
+    "length": 52,
+    "id": 7
   },
   {
-    "content": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-    "author": "Goethe"
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Goethe",
+    "length": 100,
+    "id": 8
   },
   {
-    "content": "You can get everything in life you want if you will just help enough other people get what they want.",
-    "author": "Zig Ziglar"
+    "quote": "You can get everything in life you want if you will just help enough other people get what they want.",
+    "author": "Zig Ziglar",
+    "length": 101,
+    "id": 9
   },
   {
-    "content": "Whatever you do will be insignificant, but it is very important that you do it.",
-    "author": "Mahatma Gandhi"
+    "quote": "Whatever you do will be insignificant, but it is very important that you do it.",
+    "author": "Mahatma Gandhi",
+    "length": 79,
+    "id": 10
   },
   {
-    "content": "Desire is the starting point of all achievement, not a hope, not a wish, but a keen pulsating desire which transcends everything.",
-    "author": "Napoleon Hill"
+    "quote": "Desire is the starting point of all achievement, not a hope, not a wish, but a keen pulsating desire which transcends everything.",
+    "author": "Napoleon Hill",
+    "length": 129,
+    "id": 11
   },
   {
-    "content": "Failure is the condiment that gives success its flavor.",
-    "author": "Truman Capote"
+    "quote": "Failure is the condiment that gives success its flavor.",
+    "author": "Truman Capote",
+    "length": 55,
+    "id": 12
   },
   {
-    "content": "Vision without action is daydream. Action without vision is nightmare.",
-    "author": "Japanese Proverb"
+    "quote": "Vision without action is daydream. Action without vision is nightmare.",
+    "author": "Japanese Proverb",
+    "length": 70,
+    "id": 13
   },
   {
-    "content": "In any situation, the best thing you can do is the right thing; the next best thing you can do is the wrong thing; the worst thing you can do is nothing.",
-    "author": "Theodore Roosevelt"
+    "quote": "In any situation, the best thing you can do is the right thing; the next best thing you can do is the wrong thing; the worst thing you can do is nothing.",
+    "author": "Theodore Roosevelt",
+    "length": 153,
+    "id": 14
   },
   {
-    "content": "If you keep saying things are going to be bad, you have a chance of being a prophet.",
-    "author": "Isaac B. Singer"
+    "quote": "If you keep saying things are going to be bad, you have a chance of being a prophet.",
+    "author": "Isaac B. Singer",
+    "length": 84,
+    "id": 15
   },
   {
-    "content": "Success consists of doing the common things of life uncommonly well",
-    "author": "Unknown"
+    "quote": "Success consists of doing the common things of life uncommonly well",
+    "author": "Unknown",
+    "length": 67,
+    "id": 16
   },
   {
-    "content": "Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.",
-    "author": "Charles F. Kettering, Engineer and Inventor"
+    "quote": "Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.",
+    "author": "Charles F. Kettering, Engineer and Inventor",
+    "length": 171,
+    "id": 17
   },
   {
-    "content": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover",
-    "author": "Mark Twain"
+    "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover",
+    "author": "Mark Twain",
+    "length": 234,
+    "id": 18
   },
   {
-    "content": "Losers visualize the penalties of failure. Winners visualize the rewards of success.",
-    "author": "Unknown"
+    "quote": "Losers visualize the penalties of failure. Winners visualize the rewards of success.",
+    "author": "Unknown",
+    "length": 84,
+    "id": 19
   },
   {
-    "content": "Some succeed because they are destined. Some succeed because they are determined.",
-    "author": "Unknown"
+    "quote": "Some succeed because they are destined. Some succeed because they are determined.",
+    "author": "Unknown",
+    "length": 81,
+    "id": 20
   },
   {
-    "content": "Experience is what you get when you don't get what you want.",
-    "author": "Dan Stanford"
+    "quote": "Experience is what you get when you don't get what you want.",
+    "author": "Dan Stanford",
+    "length": 60,
+    "id": 21
   },
   {
-    "content": "Setting an example is not the main means of influencing others; it is the only means.",
-    "author": "Albert Einstein"
+    "quote": "Setting an example is not the main means of influencing others; it is the only means.",
+    "author": "Albert Einstein",
+    "length": 85,
+    "id": 22
   },
   {
-    "content": "A happy person is not a person in a certain set of circumstances, but rather a person with a certain set of attitudes.",
-    "author": "Hugh Downs"
+    "quote": "A happy person is not a person in a certain set of circumstances, but rather a person with a certain set of attitudes.",
+    "author": "Hugh Downs",
+    "length": 118,
+    "id": 23
   },
   {
-    "content": "If you're going to be able to look back on something and laugh about it, you might as well laugh about it now.",
-    "author": "Marie Osmond"
+    "quote": "If you're going to be able to look back on something and laugh about it, you might as well laugh about it now.",
+    "author": "Marie Osmond",
+    "length": 110,
+    "id": 24
   },
   {
-    "content": "Remember that happiness is a way of travel, not a destination.",
-    "author": "Roy Goodman"
+    "quote": "Remember that happiness is a way of travel, not a destination.",
+    "author": "Roy Goodman",
+    "length": 62,
+    "id": 25
   },
   {
-    "content": "If you want to test your memory, try to recall what you were worrying about one year ago today.",
-    "author": "E. Joseph Cossman"
+    "quote": "If you want to test your memory, try to recall what you were worrying about one year ago today.",
+    "author": "E. Joseph Cossman",
+    "length": 95,
+    "id": 26
   },
   {
-    "content": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
-    "author": "Ralph Waldo Emerson"
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "length": 93,
+    "id": 27
   },
   {
-    "content": "We judge of man's wisdom by his hope.",
-    "author": "Ralph Waldo Emerson"
+    "quote": "We judge of man's wisdom by his hope.",
+    "author": "Ralph Waldo Emerson",
+    "length": 37,
+    "id": 28
   },
   {
-    "content": "The best way to cheer yourself up is to try to cheer somebody else up.",
-    "author": "Mark Twain"
+    "quote": "The best way to cheer yourself up is to try to cheer somebody else up.",
+    "author": "Mark Twain",
+    "length": 70,
+    "id": 29
   },
   {
-    "content": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
-    "author": "Mark Twain"
+    "quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
+    "author": "Mark Twain",
+    "length": 74,
+    "id": 30
   },
   {
-    "content": "Whenever you find yourself on the side of the majority, it's time to pause and reflect.",
-    "author": "Mark Twain"
+    "quote": "Whenever you find yourself on the side of the majority, it's time to pause and reflect.",
+    "author": "Mark Twain",
+    "length": 87,
+    "id": 31
   },
   {
-    "content": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
-    "author": "Mark Twain"
+    "quote": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
+    "author": "Mark Twain",
+    "length": 154,
+    "id": 32
   },
   {
-    "content": "The surest way not to fail is to determine to succeed.",
-    "author": "Richard B. Sheridan"
+    "quote": "The surest way not to fail is to determine to succeed.",
+    "author": "Richard B. Sheridan",
+    "length": 54,
+    "id": 33
   },
   {
-    "content": "Take the first step in faith. You don't have to see the whole staircase, just take the first step.",
-    "author": "Dr. Martin Luther King Jr."
+    "quote": "Take the first step in faith. You don't have to see the whole staircase, just take the first step.",
+    "author": "Dr. Martin Luther King Jr.",
+    "length": 98,
+    "id": 34
   },
-  { "content": "Act or accept.", "author": "Unanonymous" },
   {
-    "content": "Many great ideas go unexecuted, and many great executioners are without ideas. One without the other is worthless.",
-    "author": "Tim Blixseth"
+    "quote": "Act or accept.",
+    "author": "Unanonymous",
+    "length": 14,
+    "id": 35
   },
   {
-    "content": "The world is more malleable than you think and it's waiting for you to hammer it into shape.",
-    "author": "Bono"
+    "quote": "Many great ideas go unexecuted, and many great executioners are without ideas. One without the other is worthless.",
+    "author": "Tim Blixseth",
+    "length": 114,
+    "id": 36
   },
   {
-    "content": "Sometimes you just got to give yourself what you wish someone else would give you.",
-    "author": "Dr Phil"
+    "quote": "The world is more malleable than you think and it's waiting for you to hammer it into shape.",
+    "author": "Bono",
+    "length": 92,
+    "id": 37
   },
   {
-    "content": "Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.",
-    "author": "Stephen R. Covey"
+    "quote": "Sometimes you just got to give yourself what you wish someone else would give you.",
+    "author": "Dr Phil",
+    "length": 82,
+    "id": 38
   },
   {
-    "content": "People become really quite remarkable when they start thinking that they can do things. When they believe in themselves they have the first secret of success.",
-    "author": "Norman Vincent Peale"
+    "quote": "Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.",
+    "author": "Stephen R. Covey",
+    "length": 124,
+    "id": 39
   },
   {
-    "content": "Whenever you find whole world against you just turn around and lead the world.",
-    "author": "Anonymous"
+    "quote": "People become really quite remarkable when they start thinking that they can do things. When they believe in themselves they have the first secret of success.",
+    "author": "Norman Vincent Peale",
+    "length": 158,
+    "id": 40
   },
   {
-    "content": "Being defeated is only a temporary condition; giving up is what makes it permanent.",
-    "author": "Marilyn vos Savant, Author and Advice Columnist"
+    "quote": "Whenever you find whole world against you just turn around and lead the world.",
+    "author": "Anonymous",
+    "length": 78,
+    "id": 41
   },
   {
-    "content": "I can't understand why people are frightened by new ideas. I'm frightened by old ones.",
-    "author": "John Cage"
+    "quote": "Being defeated is only a temporary condition; giving up is what makes it permanent.",
+    "author": "Marilyn vos Savant, Author and Advice Columnist",
+    "length": 83,
+    "id": 42
   },
   {
-    "content": "Setting an example is not the main means of influencing others; it is the only means.",
-    "author": "Albert Einstein"
+    "quote": "I can't understand why people are frightened by new ideas. I'm frightened by old ones.",
+    "author": "John Cage",
+    "length": 86,
+    "id": 43
   },
   {
-    "content": "The difference between ordinary and extraordinary is that little extra.",
-    "author": "Unknown"
+    "quote": "Setting an example is not the main means of influencing others; it is the only means.",
+    "author": "Albert Einstein",
+    "length": 85,
+    "id": 44
   },
   {
-    "content": "The best way to predict the future is to create it.",
-    "author": "Unknown"
+    "quote": "The difference between ordinary and extraordinary is that little extra.",
+    "author": "Unknown",
+    "length": 71,
+    "id": 45
   },
   {
-    "content": "Anyone can do something when they WANT to do it. Really successful people do things when they don't want to do it.",
-    "author": "Dr. Phil"
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Unknown",
+    "length": 51,
+    "id": 46
   },
   {
-    "content": "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
-    "author": "Dr. Denis Waitley"
+    "quote": "Anyone can do something when they WANT to do it. Really successful people do things when they don't want to do it.",
+    "author": "Dr. Phil",
+    "length": 114,
+    "id": 47
   },
   {
-    "content": "Success is the ability to go from failure to failure without losing your enthusiasm.",
-    "author": "Sir Winston Churchill"
+    "quote": "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
+    "author": "Dr. Denis Waitley",
+    "length": 122,
+    "id": 48
   },
   {
-    "content": "Success seems to be connected with action. Successful people keep moving. They make mistakes but don't quit",
-    "author": "Conrad Hilton"
+    "quote": "Success is the ability to go from failure to failure without losing your enthusiasm.",
+    "author": "Sir Winston Churchill",
+    "length": 84,
+    "id": 49
   },
   {
-    "content": "Attitudes are contagious. Make yours worth catching.",
-    "author": "Unknown"
+    "quote": "Success seems to be connected with action. Successful people keep moving. They make mistakes but don't quit",
+    "author": "Conrad Hilton",
+    "length": 107,
+    "id": 50
   },
   {
-    "content": "Do not let what you cannot do interfere with what you can do.",
-    "author": "John Wooden"
+    "quote": "Attitudes are contagious. Make yours worth catching.",
+    "author": "Unknown",
+    "length": 52,
+    "id": 51
   },
   {
-    "content": "There are only two rules for being successful. One, figure out exactly what you want to do, and two, do it.",
-    "author": "Mario Cuomo"
+    "quote": "Do not let what you cannot do interfere with what you can do.",
+    "author": "John Wooden",
+    "length": 61,
+    "id": 52
   },
   {
-    "content": "Sooner or later, those who win are those who think they can.",
-    "author": "Richard Bach"
+    "quote": "There are only two rules for being successful. One, figure out exactly what you want to do, and two, do it.",
+    "author": "Mario Cuomo",
+    "length": 107,
+    "id": 53
   },
   {
-    "content": "Vision doesn't usually come as a lightening bolt. Rather it comes as a slow crystallization of life challenges that we one day recognize as a beautiful diamond with great value to ourselves and others.",
-    "author": "Dr. Michael Norwood"
+    "quote": "Sooner or later, those who win are those who think they can.",
+    "author": "Richard Bach",
+    "length": 60,
+    "id": 54
   },
   {
-    "content": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
-    "author": "Dr. Joyce Brothers"
+    "quote": "Vision doesn't usually come as a lightening bolt. Rather it comes as a slow crystallization of life challenges that we one day recognize as a beautiful diamond with great value to ourselves and others.",
+    "author": "Dr. Michael Norwood",
+    "length": 201,
+    "id": 55
   },
   {
-    "content": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
-    "author": "Samuel Beckett"
+    "quote": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+    "author": "Dr. Joyce Brothers",
+    "length": 89,
+    "id": 56
   },
   {
-    "content": "Flops are a part of life's menu and I've never been a girl to miss out on any of the courses.",
-    "author": "Rosalind Russell"
+    "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+    "author": "Samuel Beckett",
+    "length": 71,
+    "id": 57
   },
   {
-    "content": "Cause Change & Lead Accept Change & Survive Resist Change & Die",
-    "author": "Ray Norda, Chairman, Novell"
+    "quote": "Flops are a part of life's menu and I've never been a girl to miss out on any of the courses.",
+    "author": "Rosalind Russell",
+    "length": 93,
+    "id": 58
   },
   {
-    "content": "Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You're right on track.",
-    "author": "Matthew Keith Groves"
+    "quote": "Cause Change & Lead Accept Change & Survive Resist Change & Die",
+    "author": "Ray Norda, Chairman, Novell",
+    "length": 63,
+    "id": 59
   },
   {
-    "content": "An idea can turn to dust or magic, depending on the talent that rubs against it.",
-    "author": "Bill Bernbach"
+    "quote": "Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You're right on track.",
+    "author": "Matthew Keith Groves",
+    "length": 123,
+    "id": 60
   },
-  { "content": "An obstacle is often a stepping stone.", "author": "Prescott" },
   {
-    "content": "Life is trying things to see if they work",
-    "author": "Ray Bradbury"
+    "quote": "An idea can turn to dust or magic, depending on the talent that rubs against it.",
+    "author": "Bill Bernbach",
+    "length": 80,
+    "id": 61
   },
   {
-    "content": "If you worry about yesterday's failures, then today's successes will be few.",
-    "author": "Anonymous"
+    "quote": "An obstacle is often a stepping stone.",
+    "author": "Prescott",
+    "length": 38,
+    "id": 62
   },
   {
-    "content": "Life is 10% what happens to us and 90% how we react to it.",
-    "author": "Dennis P. Kimbro"
+    "quote": "Life is trying things to see if they work",
+    "author": "Ray Bradbury",
+    "length": 41,
+    "id": 63
   },
   {
-    "content": "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities.",
-    "author": "Ralph Waldo Emerson"
+    "quote": "If you worry about yesterday's failures, then today's successes will be few.",
+    "author": "Anonymous",
+    "length": 76,
+    "id": 64
   },
   {
-    "content": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
-    "author": "Johann Wolfgang von Goethe"
+    "quote": "Life is 10% what happens to us and 90% how we react to it.",
+    "author": "Dennis P. Kimbro",
+    "length": 58,
+    "id": 65
   },
   {
-    "content": "In matters of style, swim with the current; In matters of principle, stand like a rock.",
-    "author": "Thomas Jefferson"
+    "quote": "We are all inventors, each sailing out on a voyage of discovery, guided each by a private chart, of which there is no duplicate. The world is all gates, all opportunities.",
+    "author": "Ralph Waldo Emerson",
+    "length": 171,
+    "id": 66
   },
   {
-    "content": "I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.",
-    "author": "Albert Einstein"
+    "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "author": "Johann Wolfgang von Goethe",
+    "length": 72,
+    "id": 67
   },
   {
-    "content": "Where the willingness is great, the difficulties cannot be great.",
-    "author": "Machiavelli."
+    "quote": "In matters of style, swim with the current; In matters of principle, stand like a rock.",
+    "author": "Thomas Jefferson",
+    "length": 87,
+    "id": 68
   },
   {
-    "content": "Strength does not come from physical capacity. It comes from an indomitable will.",
-    "author": "Mahatma Gandhi"
+    "quote": "I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.",
+    "author": "Albert Einstein",
+    "length": 114,
+    "id": 69
   },
   {
-    "content": "You are what you think about all day long.",
-    "author": "Dr. Robert Schuller"
+    "quote": "Where the willingness is great, the difficulties cannot be great.",
+    "author": "Machiavelli.",
+    "length": 65,
+    "id": 70
   },
   {
-    "content": "What you do speaks so loudly that I cannot hear what you say",
-    "author": "Ralph Waldo Emerson"
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "length": 81,
+    "id": 71
   },
   {
-    "content": "Success is not to be measured by the position someone has reached in life, but the obstacles he has overcome while trying to succeed.",
-    "author": "Booker T. Washington"
+    "quote": "You are what you think about all day long.",
+    "author": "Dr. Robert Schuller",
+    "length": 42,
+    "id": 72
   },
   {
-    "content": "Talent is formed in solitude, character in the bustle of the world.",
-    "author": "Johann Wolfgang von Goethe"
+    "quote": "What you do speaks so loudly that I cannot hear what you say",
+    "author": "Ralph Waldo Emerson",
+    "length": 60,
+    "id": 73
   },
   {
-    "content": "To avoid criticism do nothing, say nothing, be nothing.",
-    "author": "Elbert Hubbard"
+    "quote": "Success is not to be measured by the position someone has reached in life, but the obstacles he has overcome while trying to succeed.",
+    "author": "Booker T. Washington",
+    "length": 133,
+    "id": 74
   },
   {
-    "content": "If you want to make your dreams come true, the first thing you have to do is wake up.",
-    "author": "J.M. Power"
+    "quote": "Talent is formed in solitude, character in the bustle of the world.",
+    "author": "Johann Wolfgang von Goethe",
+    "length": 67,
+    "id": 75
   },
   {
-    "content": "By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a da",
-    "author": "Robert Frost"
+    "quote": "To avoid criticism do nothing, say nothing, be nothing.",
+    "author": "Elbert Hubbard",
+    "length": 55,
+    "id": 76
   },
   {
-    "content": "I’ve learned that no matter what happens, or how bad it seems today, life does go on, and it will be better tomorrow.",
-    "author": "Maya Angelou"
+    "quote": "If you want to make your dreams come true, the first thing you have to do is wake up.",
+    "author": "J.M. Power",
+    "length": 85,
+    "id": 77
   },
   {
-    "content": "The art of being wise is the art of knowing what to overlook.",
-    "author": "William James"
+    "quote": "By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a da",
+    "author": "Robert Frost",
+    "length": 100,
+    "id": 78
   },
   {
-    "content": "When I hear somebody sigh, 'Life is hard', I am always tempted to ask, 'Compared to what?",
-    "author": "Sydney Harris"
+    "quote": "I’ve learned that no matter what happens, or how bad it seems today, life does go on, and it will be better tomorrow.",
+    "author": "Maya Angelou",
+    "length": 117,
+    "id": 79
   },
   {
-    "content": "Don't let life discourage you; everyone who got where he is had to begin where he was",
-    "author": "Richard L. Evans"
+    "quote": "The art of being wise is the art of knowing what to overlook.",
+    "author": "William James",
+    "length": 61,
+    "id": 80
   },
   {
-    "content": "In three words I can sum up everything I've learned about life: It goes on.",
-    "author": "Robert Frost"
+    "quote": "When I hear somebody sigh, 'Life is hard', I am always tempted to ask, 'Compared to what?",
+    "author": "Sydney Harris",
+    "length": 89,
+    "id": 81
   },
   {
-    "content": "You gain strength, courage and confidence by every experience in which you stop to look fear in the face.",
-    "author": "Eleanor Roosevelt"
+    "quote": "Don't let life discourage you; everyone who got where he is had to begin where he was",
+    "author": "Richard L. Evans",
+    "length": 85,
+    "id": 82
   },
   {
-    "content": "Sometimes even to live is an act of courage.",
-    "author": "Seneca"
+    "quote": "In three words I can sum up everything I've learned about life: It goes on.",
+    "author": "Robert Frost",
+    "length": 75,
+    "id": 83
   },
   {
-    "content": "Do first things first, and second things not at all.",
-    "author": "Peter Drucker."
+    "quote": "You gain strength, courage and confidence by every experience in which you stop to look fear in the face.",
+    "author": "Eleanor Roosevelt",
+    "length": 105,
+    "id": 84
   },
   {
-    "content": "The only people who find what they are looking for in life are the fault finders.",
-    "author": "Foster's Law"
+    "quote": "Sometimes even to live is an act of courage.",
+    "author": "Seneca",
+    "length": 44,
+    "id": 85
   },
   {
-    "content": "Defeat is not bitter unless you swallow it.",
-    "author": "Joe Clark"
+    "quote": "Do first things first, and second things not at all.",
+    "author": "Peter Drucker.",
+    "length": 52,
+    "id": 86
   },
   {
-    "content": "I am an optimist. It does not seem too much use being anything else.",
-    "author": "Winston Churchill"
+    "quote": "The only people who find what they are looking for in life are the fault finders.",
+    "author": "Foster's Law",
+    "length": 81,
+    "id": 87
   },
   {
-    "content": "Positive anything is better than negative thinking.",
-    "author": "Elbert Hubbard"
+    "quote": "Defeat is not bitter unless you swallow it.",
+    "author": "Joe Clark",
+    "length": 43,
+    "id": 88
   },
   {
-    "content": "People seem not to see that their opinion of the world is also a confession of character.",
-    "author": "Ralph Waldo Emerson"
+    "quote": "I am an optimist. It does not seem too much use being anything else.",
+    "author": "Winston Churchill",
+    "length": 68,
+    "id": 89
   },
   {
-    "content": "Those who wish to sing, always find a song.",
-    "author": "Swedish Proverb"
+    "quote": "Positive anything is better than negative thinking.",
+    "author": "Elbert Hubbard",
+    "length": 51,
+    "id": 90
   },
   {
-    "content": "If you're going through hell, keep going.",
-    "author": "Winston Churchill"
+    "quote": "People seem not to see that their opinion of the world is also a confession of character.",
+    "author": "Ralph Waldo Emerson",
+    "length": 89,
+    "id": 91
   },
   {
-    "content": "The sun shines and warms and lights us and we have no curiosity to know why this is so; but we ask the reason of all evil, of pain, and hunger, and mosquitoes and silly people.",
-    "author": "Ralph Waldo Emerson"
+    "quote": "Those who wish to sing, always find a song.",
+    "author": "Swedish Proverb",
+    "length": 43,
+    "id": 92
   },
   {
-    "content": "Life is a shipwreck but we must not forget to sing in the lifeboats.",
-    "author": "Voltaire"
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "length": 41,
+    "id": 93
   },
   {
-    "content": "Enduring habits I hate.... Yes, at the very bottom of my soul I feel grateful to all my misery and bouts of sickness and everything about me that is imperfect, because this sort of thing leaves me with a hundred backdoors through which I can escape from enduring habits.",
-    "author": "Friedrich Nietzsche, The Gay Science, 1882"
+    "quote": "The sun shines and warms and lights us and we have no curiosity to know why this is so; but we ask the reason of all evil, of pain, and hunger, and mosquitoes and silly people.",
+    "author": "Ralph Waldo Emerson",
+    "length": 176,
+    "id": 94
   },
-  { "content": "There is no education like adversity.", "author": "Disraeli" },
   {
-    "content": "He who has a why to live can bear almost any how.",
-    "author": "Friedrich Nietzsche"
+    "quote": "Life is a shipwreck but we must not forget to sing in the lifeboats.",
+    "author": "Voltaire",
+    "length": 68,
+    "id": 95
   },
   {
-    "content": "Adversity introduces a man to himself.",
-    "author": "Author Unknown"
+    "quote": "Enduring habits I hate.... Yes, at the very bottom of my soul I feel grateful to all my misery and bouts of sickness and everything about me that is imperfect, because this sort of thing leaves me with a hundred backdoors through which I can escape from enduring habits.",
+    "author": "Friedrich Nietzsche, The Gay Science, 1882",
+    "length": 270,
+    "id": 96
+  },
+  {
+    "quote": "There is no education like adversity.",
+    "author": "Disraeli",
+    "length": 37,
+    "id": 97
+  },
+  {
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "length": 49,
+    "id": 98
+  },
+  {
+    "quote": "Adversity introduces a man to himself.",
+    "author": "Author Unknown",
+    "length": 38,
+    "id": 99
   }
 ]
